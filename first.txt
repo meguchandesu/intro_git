@@ -1,3 +1,5 @@
 Gitの練習
 基本的なワークフローを学びます。
-順調です。
+・git add
+・git commit
+・git rm
