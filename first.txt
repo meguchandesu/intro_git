@@ -1,5 +1,7 @@
-Git‚Ì—ûK
-Šî–{“I‚Èƒ[ƒNƒtƒ[‚ğŠw‚Ñ‚Ü‚·B
-Egit add
-Egit commit
-Egit rm
+ï»¿Gitã®ç·´ç¿’ã‚’ã—ã¦ã„ãã¾ã™ã€‚
+åŸºæœ¬çš„ãªãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ã‚’å­¦ã³ã¾ã™ã€‚
+ãƒ»git add
+ãƒ»git commit
+ãƒ»git rm
+ãƒ»git status
+
